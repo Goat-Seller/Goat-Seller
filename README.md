@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Goat-Seller
 - 👀 I’m interested in WEB Develpoment
-- 🌱 I’m currently learning Python
 - 📫 Email: ateretcandidus@gmail.com
 
 <!---
